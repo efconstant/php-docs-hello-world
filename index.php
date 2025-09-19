@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure Manu!";
+echo "Hello Azure Manu! version 2";
